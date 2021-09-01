@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @LeBogoo
-- 👀 I’m interested in programming Discord bots in Discord.js
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on other Discord bots.
-- 📫 How to reach me: (Discord) LeBogo#3073
- 
+Hi, I'm LeBogo
+
+I'm interested in programming pretty much everything in JS.
+
+Contact me via Discord: LeBogo#3073 
+
+![LeBogos GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebogoo&show_icons=true&theme=dark&border_radius=20&bg_color=90,005919,022806)
