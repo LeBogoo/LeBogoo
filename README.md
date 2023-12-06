@@ -1,8 +1,8 @@
 Hi, I'm LeBogo
 
-I'm interested in programming pretty much everything in JS.
+I'm interested in programming pretty much everything in JS/TS/Java/Go.
 
-Contact me via Discord: LeBogo#3073
+Contact me via Discord: lebogo
 
 Web: [lebogo.tk](https://lebogo.tk/)
 
