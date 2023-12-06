@@ -1,11 +1,13 @@
-Hi, I'm LeBogo
+## 👋 Hello, World! I'm LeBogo
 
-I'm interested in programming pretty much everything in JS/TS/Java/Go.
+### 👨‍💻 About Me
+- 🌱 Trainee IT Specialist in Application Development
+- 💻 Passionate about TypeScript, Java, and Go
+- 🎮 Creator of [Onu]([https://github.com/LeBogo/Onu](https://github.com/OnuGame)) - a free and open-source browser game inspired by a popular card game
+- 😸 Cat lover, gamer, and aspiring game developer
 
-Contact me via Discord: lebogo
+### 🚀 My Projects
+- 🃏 [Onu]([https://github.com/LeBogo/Onu](https://github.com/OnuGame)) - Dive into the world of Onu, an open-source browser game with a unique twist on a classic card game.
 
-Web: [lebogo.tk](https://lebogo.tk/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lebogoo&label=Profile%20views%20since%20this%20was%20added&color=0e75b6&style=flat)
-
-![LeBogos GitHub Stats](https://github-readme-stats.vercel.app/api?username=lebogoo&show_icons=true&theme=dark&border_radius=20&bg_color=90,005919,022806)
+### 🌐 Connect with Me
+- 💬 Discord: lebogo
