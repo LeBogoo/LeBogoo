@@ -11,3 +11,4 @@
 
 ### 🌐 Connect with Me
 - 💬 Discord: lebogo
+- 📧 E-Mail: contact@lebogo.me
