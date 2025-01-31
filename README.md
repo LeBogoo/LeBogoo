@@ -1,7 +1,7 @@
 ## 👋 Hello, World! I'm LeBogo
 
 ### 👨‍💻 About Me
-- 🌱 Trainee IT Specialist in Application Development
+- 🌱 IT Specialist in Application Development
 - 💻 Passionate about TypeScript, Java, and Go
 - 🎮 Creator of [Onu]([https://github.com/LeBogo/Onu](https://github.com/OnuGame)) - a free and open-source browser game inspired by a popular card game
 - 😸 Cat lover, gamer, and aspiring game developer
